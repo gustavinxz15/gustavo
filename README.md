@@ -6,4 +6,4 @@ Meu nome é Gustavo
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-![](https://tenor.com/pt-BR/view/gogo-hoho-nearby-cartoon-halloween-gif-4483005081614925403)
+![](https://th.bing.com/th/id/OIP.ADUBKUhMmZepJSioUmhjhQHaHa?w=180&h=180&c=7&r=0&o=5&pid=1.7)
